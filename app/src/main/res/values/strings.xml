@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeoApp</string>
+    <string name="input_placeholder_host">beo.dominio.com / 192.168.1.100</string>
+    <string name="input_label_host">Dirección del servidor</string>
+    <string name="button_submit">Obtener niveles</string>
+    <string name="error_fetching_levels">Error al conectar con el servidor</string>
+    <string name="empty_level_list">No hay estadísticas en el servidor seleccionado</string>
+    <string name="host_screen_title">Introduce la dirección del servidor BEO</string>
+
+</resources>
